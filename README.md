@@ -4,11 +4,13 @@
 
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/101418582/213934335-b99a35d1-aa65-410a-9c51-ecdfc527e657.gif" />
+</div>
 
+<h2 align="left">Current backend developer 🧑🏻‍💻 and former sustainability consultant 🏕️</h2>
 
-<h3 align="center">Current backend developer 🧑🏻‍💻 and former sustainability consultant 🏕️</h3>
-
-🌱 I am currently a student studying Ruby on Rails at Turing School of Software & Design - graduating March of 2023!
+- 🌱 Studying Ruby on Rails at Turing School of Software & Design - graduating March of 2023!
 
 - 💬 Ask me about: **my path to becoming a developer 👷🏻‍♂️**
 
