@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">Current backend developer 🧑🏻‍💻 and former sustainability consultant 🏕️</h3>
 
-🌱 I am currently a student studying Ruby on Rails at Turing School of Software & Design - graduating March of 2023 👨🏻‍🎓
+🌱 I am currently a student studying Ruby on Rails at Turing School of Software & Design - graduating March of 2023!
 
 - 💬 Ask me about: **my path to becoming a developer 👷🏻‍♂️**
 
