@@ -11,7 +11,7 @@
 <h2 align="left">Current backend developer 🧑🏻‍💻 and former sustainability consultant 🏕️</h2>
 
 - 🌱 Studying Ruby on Rails at Turing School of Software & Design - graduating March of 2023!
-
+- 📚 I enjoy: **complex problems and the satisfaction of solving them**
 - 💬 Ask me about: **my path to becoming a developer 👷🏻‍♂️**
 
 - 📫 How to reach me: **bkeener7@gmail.com**
