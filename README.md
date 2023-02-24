@@ -17,7 +17,7 @@ After spending seven years as an environmental and sustainability consultant, I 
 
 - 📚 I enjoy: **complex problems and the satisfaction of solving them. Let's debug together 🐛**
 
-- 👷🏻‍♂️ Ask me about: **anything sci-fi**
+- 👷🏻‍♂️ Ask me about: **anything sci-fi!**
 
 - ⛰️ In my free time: **find me outside hiking, hanging with my animals, and enjoying snow days**
 
