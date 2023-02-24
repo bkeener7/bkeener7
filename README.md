@@ -10,11 +10,14 @@
 
 <h2 align="left">Current backend developer 🧑🏻‍💻 and former sustainability consultant 🏕️</h2>
 
+After spending seven years as an environmental and sustainability consultant, I discovered my true passion for creativity, logical problem-solving, and collaboration in software development. At Turing School of Software and Design, I honed my skills in creating, maintaining, and optimizing databases and backend systems using advanced tools such as Ruby on Rails and PostgreSQL. I'm also experienced in developing web applications using test-driven development in solo, paired, and group settings. Feel free to browse my GitHub and learn more about me!
+
+
 - 🌱 Studying Ruby on Rails at Turing School of Software & Design - graduating March of 2023!
 
 - 📚 I enjoy: **complex problems and the satisfaction of solving them. Let's debug together 🐛**
 
-- 👷🏻‍♂️ Ask me about: **my path to becoming a developer**
+- 👷🏻‍♂️ Ask me about: **anything sci-fi**
 
 - ⛰️ In my free time: **find me outside hiking, hanging with my animals, and enjoying snow days**
 
