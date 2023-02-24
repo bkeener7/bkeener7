@@ -1,11 +1,11 @@
-<a href="https://www.linkedin.com/in/bkeener/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/bkeener/" alt="linkedin" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" style="margin-bottom: 5px;" />
 </a><br><br>
 
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/101418582/213934335-b99a35d1-aa65-410a-9c51-ecdfc527e657.gif" />
+  <img src="https://user-images.githubusercontent.com/101418582/213934335-b99a35d1-aa65-410a-9c51-ecdfc527e657.gif" alt="Simba, Pumbaa, Zazu">
 </div>
 
 <h2 align="left">Current backend developer 🧑🏻‍💻 and former sustainability consultant 🏕️</h2>
