@@ -10,7 +10,7 @@
 
 <h2 align="left">Current Software Engineer 🧑🏻‍💻 Former Environmental & Sustainability Professional 🏕️</h2>
 
-- 👷🏻‍♂️ Currently learning: **JavaScript, Node.js, Express, and MongoDB**
+- 👷🏻‍♂️ Currently learning: **JavaScript and Node.js**
 
 - 📫 How to reach me: **bkeener7@gmail.com**
 
