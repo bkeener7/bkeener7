@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/101418582/213934335-b99a35d1-aa65-410a-9c51-ecdfc527e657.gif" alt="Simba, Pumbaa, Zazu">
 </div>
 
-<h2 align="left">Current Software Engineer 🧑🏻‍💻 Former Environmental & Sustainability Professional 🏕️</h2>
+<h2 align="left">Software Engineer 🧑🏻‍💻 Environmental & Sustainability Professional 🏕️</h2>
 
 - 👷🏻‍♂️ Currently learning: **JavaScript and Node.js**
 
