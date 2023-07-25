@@ -10,11 +10,7 @@
 
 <h2 align="left">Software Engineer 🧑🏻‍💻 Environmental & Sustainability Professional 🏕️</h2>
 
-- 👷🏻‍♂️ Currently learning: **JavaScript and Node.js**
-
 - 📫 How to reach me: **bkeener7@gmail.com**
-
-- 📄 [Resume](https://drive.google.com/file/d/1j8KC5QDzKuSrd971eSTf2xfjWtEcEfrh/view?usp=sharing)
 
 - ⚡ Fun fact: **Current pet dad of: 2x 🐶 2x 🐴 and 1x 🐱**
 
